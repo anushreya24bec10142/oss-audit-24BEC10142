@@ -6,7 +6,7 @@
 
 ---
 
-## 🐍 Chosen Software
+## Chosen Software
 **Python**
 
 Python is an open-source, high-level programming language known for its simplicity, readability, and versatility. It is widely used in web development, data science, machine learning, and automation.
@@ -64,7 +64,7 @@ chmod +x script5.sh
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 - Linux environment (Ubuntu recommended)
 - Bash shell
